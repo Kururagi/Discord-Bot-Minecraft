@@ -7,16 +7,16 @@
     public static string DiscordToken => "";
 
     // Minecraft RCON Settings
-    public static string MinecraftServerIP => "45.154.24.114";
-    public static int MinecraftServerPort => 25575; // Default RCON port
-    public static string RconPassword => "1956312207";
+    public static string MinecraftServerIP => "";
+    public static int MinecraftServerPort => ; // Default RCON port
+    public static string RconPassword => "";
 
     // MySQL Database
-    public static string MySqlHost = "45.154.24.114";
-    public static string MySqlDatabase = "minecraft";
-    public static string MySqlUsername = "admin";
-    public static string MySqlPassword = "1956312207";
-    public static int MySqlPort = 3306; // Default MySQL port
+    public static string MySqlHost = "";
+    public static string MySqlDatabase = "";
+    public static string MySqlUsername = "";
+    public static string MySqlPassword = "";
+    public static int MySqlPort = ; // Default MySQL port
 
     public static string MySqlConnectionString =>
         $"Server={MySqlHost};Database={MySqlDatabase};User ID={MySqlUsername};Password={MySqlPassword};";
