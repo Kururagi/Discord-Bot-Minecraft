@@ -2,9 +2,9 @@
 {
     // Discord Bot Token
     //FOR TEST
-    //public static string DiscordToken => "ODE2OTgwNjI0NzEwODI4MDYz.G0z0wD.6e1XD4p9ZlvDwuRTwly8qZx5teK1mbLdOw36To";
+    //public static string DiscordToken => "";
     //FOR REAL
-    public static string DiscordToken => "MTM0NjUxNjIzMDUwODUxNTM4OQ.Gjk43q.Xto0-i5xUVOeDfgAYnB1RVE7E3dUkkT24rTRqk";
+    public static string DiscordToken => "";
 
     // Minecraft RCON Settings
     public static string MinecraftServerIP => "45.154.24.114";
